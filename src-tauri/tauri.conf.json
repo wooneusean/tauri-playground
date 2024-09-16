@@ -16,6 +16,17 @@
         "all": false,
         "open": true
       },
+      "window": {
+        "all": false,
+        "close": true,
+        "hide": true,
+        "show": true,
+        "maximize": true,
+        "minimize": true,
+        "unmaximize": true,
+        "unminimize": true,
+        "startDragging": true
+      },
       "dialog": {
         "all": true,
         "ask": true,
@@ -29,7 +40,9 @@
       {
         "title": "tauri-playground",
         "width": 1280,
-        "height": 720
+        "height": 720,
+        "decorations": false,
+        "transparent": true
       }
     ],
     "security": {
