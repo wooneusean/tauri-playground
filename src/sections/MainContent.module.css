@@ -1,0 +1,4 @@
+.mainContent {
+  @apply my-8;
+  overflow-y: auto;
+}
